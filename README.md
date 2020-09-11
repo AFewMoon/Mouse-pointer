@@ -13,3 +13,5 @@
 # 后记
 
 创建此项目的 [灵感](https://blog.csdn.net/tiktiktock/article/details/100033634)。
+
+如果您比较满意，那就点个小星星吧！
