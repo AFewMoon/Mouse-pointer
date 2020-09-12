@@ -1,4 +1,10 @@
-# Mouse pointer
+# 简介
+
+![](https://img.shields.io/github/last-commit/Sam2007-coder/Mouse-pointer)
+
+![](https://img.shields.io/github/release-date/Sam2007-coder/Mouse-pointer)
+
+![](https://img.shields.io/github/downloads/Sam2007-coder/Mouse-pointer/latest/total)
 
 一个**自动**连点器。
 
