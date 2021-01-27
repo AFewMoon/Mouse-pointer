@@ -1,4 +1,6 @@
 # 简介
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAFewMoon%2FMouse-pointer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAFewMoon%2FMouse-pointer?ref=badge_shield)
+
 
 ![](https://img.shields.io/github/last-commit/Sam2007-coder/Mouse-pointer)
 
@@ -23,3 +25,7 @@
 创建此项目的 [灵感](https://blog.csdn.net/tiktiktock/article/details/100033634)。
 
 如果您比较满意，那就点个小星星吧！
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAFewMoon%2FMouse-pointer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAFewMoon%2FMouse-pointer?ref=badge_large)
