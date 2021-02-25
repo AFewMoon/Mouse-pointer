@@ -27,5 +27,5 @@
 如果您比较满意，那就点个小星星吧！
 
 
-## License
+# License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAFewMoon%2FMouse-pointer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAFewMoon%2FMouse-pointer?ref=badge_large)
